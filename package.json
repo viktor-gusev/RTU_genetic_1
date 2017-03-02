@@ -1,0 +1,12 @@
+{
+  "name": "genetic1",
+  "version": "1.0.0",
+  "description": "RTU project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "author": "Victor Gusev",
+  "license": "ISC"
+}
